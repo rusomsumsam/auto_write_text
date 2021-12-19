@@ -1,4 +1,4 @@
-const text = 'My viewers on Twitch are the best!';
+const text = 'Auto Write Text!';
 let index = 0;
 
 function writeText(){
